@@ -33,8 +33,6 @@ $getUrl = $apiUrl . "/" . $zoneId . "/dns_records?name=" . $domian; //根据域�
 //updateDns
 //具体参见 https://api.cloudflare.com/#dns-records-for-a-zone-update-dns-record
 
-//{"type":"A","name":"a01.7is.site","content":"127.0.0.1","ttl":600,"proxied":false}
-
 $putUrl = $apiUrl . "/" . $zoneId . "/dns_records/" . getDnsId($getUrl,$headArrayData);
 
 
