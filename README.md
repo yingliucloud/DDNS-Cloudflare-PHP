@@ -6,7 +6,9 @@
 $getIpUrl >公网Ip获取地址,上传ip.php到公网可访问的服务器/虚拟主机
 
 $zoneId >Cloudflare 区域ID(控制面板获取)
+
 $accountId >Cloudflare 账户ID（控制面板获取）
+
 [控制面板](https://dash.cloudflare.com/)
 
 
