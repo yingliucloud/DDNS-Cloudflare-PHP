@@ -41,6 +41,7 @@ $authEmail >登录Cloudflare的邮箱
 >具体计算方法可参照[Crontab.Guru](https://crontab.guru/)
 >
 >有些情况下，可能需要带上php版本号执行，如：
+>
 >`php7.4 /DDNS-Cloudflare-PHP/index.php`
 
 
