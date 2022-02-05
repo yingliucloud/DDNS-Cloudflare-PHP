@@ -2,6 +2,12 @@
 
 使用PHP编写，基于CloudflareAPI的DDNS
 
+## 支持（已测试）
+ - 中国电信（无需运行本程序设备拨号）
+
+## 理论支持
+ - 拨号服务器
+
 # 快速上手
 
 ## 修改配置
@@ -43,6 +49,15 @@ $authEmail >登录Cloudflare的邮箱
 >有些情况下，可能需要带上php版本号执行，如：
 >
 >`php7.4 /DDNS-Cloudflare-PHP/index.php`
+
+# To Do
+ - 完全取消All In One
+ - 邮件通知
+ - 钉钉通知
+ - 添加域名
+ - 远程更新域名信息
+
+
 
 
 
