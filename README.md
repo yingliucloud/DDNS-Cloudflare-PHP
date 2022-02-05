@@ -33,15 +33,15 @@ $authEmail >登录Cloudflare的邮箱
 
  - Linux(Debian11√)
 
-在 `/etc/crontab` 中添加
-
-`*/5 * * * * root php /dir/dir/dir/more_dir/index.php`
-
-如果这样设置，程序将每五分钟执行一次
-具体计算方法可参照[Crontab.Guru](https://crontab.guru/)
-
-有些情况下，可能需要带上php版本号执行，如：
-`php7.4 /DDNS-Cloudflare-PHP/index.php`
+>在 `/etc/crontab` 中添加
+>
+>`*/5 * * * * root php /dir/dir/dir/more_dir/index.php`
+>
+>如果这样设置，程序将每五分钟执行一次
+>具体计算方法可参照[Crontab.Guru](https://crontab.guru/)
+>
+>有些情况下，可能需要带上php版本号执行，如：
+>`php7.4 /DDNS-Cloudflare-PHP/index.php`
 
 
 
