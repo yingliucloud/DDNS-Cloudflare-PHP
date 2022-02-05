@@ -1,6 +1,6 @@
 # DDNS-Cloudflare-PHP
 
-使用PHP编写，基于CloudflareAPI的DDNS
+使用PHP编写，基于CloudflareAPI的DDNS，从此摆脱鸡肋的路由器DDNS（小声bb：某些路由器和运营商的光猫内置的ddns实在是反人类）
 
 ## 支持（已测试）
  - 中国电信（无需运行本程序设备拨号）
