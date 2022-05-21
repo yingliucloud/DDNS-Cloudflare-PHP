@@ -11,7 +11,7 @@
 # 快速上手
 
 ## 修改配置
-$getIpUrl >公网Ip获取地址,上传ip.php到公网可访问的服务器/虚拟主机
+$getIpUrl >公网Ip获取地址,上传ip.php到公网可访问的服务器/虚拟主机(你也可以使用:`https://api-ipv4.ip.sb/ip`等其他获取ip的方式)
 
 $zoneId >Cloudflare 区域ID(控制面板获取)
 
